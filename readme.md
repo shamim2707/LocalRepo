@@ -31,7 +31,7 @@ This repository contains a project built using **HTML**, **CSS**, and **JavaScri
 ## Usage
 
 - Modify the `index.html` file to change the structure.
-- Update `styclearles.css` for custom styling.
+- Update `style.css` for custom styling.
 - Edit `script.js` to add or modify functionality.
 
 ## Contributing
@@ -40,4 +40,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Github
